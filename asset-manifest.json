@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hrk_color_toggler_app/static/css/main.779d0976.css",
+    "main.js": "/hrk_color_toggler_app/static/js/main.387a62d5.js",
+    "index.html": "/hrk_color_toggler_app/index.html",
+    "main.779d0976.css.map": "/hrk_color_toggler_app/static/css/main.779d0976.css.map",
+    "main.387a62d5.js.map": "/hrk_color_toggler_app/static/js/main.387a62d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.779d0976.css",
+    "static/js/main.387a62d5.js"
+  ]
+}
